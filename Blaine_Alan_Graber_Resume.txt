@@ -1,0 +1,37 @@
+Blaine Alan Graber
+Madison Heights, Virginia  |  434-215-8651  |  blaine819@icloud.com
+
+OBJECTIVE
+Cybersecurity student seeking a Penetration Tester role with Battelle's Mission Focused Tools group to support Department of Homeland Security test and evaluation. Interested in applying hands-on vulnerability assessment practice, careful documentation, and clear technical communication to security-system research in laboratory and field settings.
+
+EDUCATION
+Radford University — Radford, Virginia                                          Junior Standing
+Bachelor of Science in Cybersecurity
+• Coursework centered on information security concepts, controlled testing of systems, and clear reporting of methods and results.
+• Practiced translating technical findings into detailed explanations for instructors and peer review.
+
+TECHNICAL SKILLS
+• Vulnerability Assessment: Web application testing against known weaknesses, including SQL injection, cross-site scripting (XSS), OS command injection, and brute-force attacks.
+• Test Environments: Damn Vulnerable Web Application (DVWA) and related lab-based security exercises.
+• Documentation and Reporting: Structured test notes, evidence collection, result analysis, and oral skill demonstrations.
+• Data Collection and Analysis: Gathering, organizing, and presenting statistical and performance data for quick review by others.
+• Clearance Eligibility: U.S. citizen; able to obtain and maintain a DoD Secret clearance and TSA Security Suitability.
+
+RELEVANT PROJECTS
+Web Application Vulnerability Testing (DVWA)                                   Radford University
+Academic Laboratory Exercise
+• Conducted structured cybersecurity assessments against an application built with known web weaknesses to practice penetration-testing methods in a controlled environment.
+• Tested OS command injection, SQL injection, cross-site scripting (XSS), and brute-force attack paths; recorded application behavior and outcomes for each trial.
+• Maintained detailed notes suitable for explaining methods, results, and reasoning during formal skill demonstrations to instructors.
+• Presented findings orally and in writing, emphasizing how each result was obtained and why the observed behavior indicated a security weakness.
+
+Live Competitive Gaming Data Tracker                                           In Progress
+Course Project (ITEC 220) | Radford University
+• Building a live data tracker for statistical information on the top 20 Counter-Strike 2 teams, drawing from HLTV rankings and related competitive sources.
+• Collecting and organizing player and team data, including activity outside professional circuits such as FACEIT, so that standings are easy for others to read.
+• Applying the same habits required in test and evaluation work: gather evidence carefully, reduce it into clear displays, and report results that support quick, informed review.
+
+ADDITIONAL INFORMATION
+• Strong written and verbal communication developed through laboratory reports and instructor skill demonstrations.
+• Comfortable working independently on technical tasks and collaborating when explaining methods and results to others.
+• Interested in federal mission-support environments involving cybersecurity assessment, test planning, and quality-focused delivery.
